@@ -550,7 +550,7 @@ nullam rhoncus tortor at dignissim vehicula.</p>
 					</ul>
 
                     <p class="copyright">
-                        &copy; 2016 Be. Created By <a href="http://templatestock.co">Template Stock</a>
+                        &copy; 2020 BASTENSOFT. Created By <a href="BASTENSOFT.com"></a>
 					</p>
 
 				</div>
